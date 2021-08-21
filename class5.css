@@ -1,0 +1,24 @@
+.firstbox {
+    border:black 5px solid;
+}
+#internal_ul {
+    background-color:peru;
+}
+ol{
+    background-color: cyan;
+}
+h2 {
+    background-color:purple;
+}
+p[name="first_p_tag"] {
+    background-color:pink;
+}
+body {
+    background-color: green;
+}
+img {
+    border-radius: 5%;
+}
+video {
+    border-radius: 5%;
+}
